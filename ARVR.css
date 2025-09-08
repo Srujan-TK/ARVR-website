@@ -1,0 +1,264 @@
+.ar-vr-logo-navbar{
+   height: 110px;
+   width: 120px;
+  
+}
+#navbaritem1{
+   font-family: Roboto;
+   font-weight: bold;
+   
+}
+#navbaritem2{
+   font-family: Roboto;
+   font-weight: bold;
+}
+#navbaritem3{
+   font-family: Roboto;
+   font-weight: bold;
+}
+#navbaritem4{
+   font-family: Roboto;
+   font-weight: bold;
+}
+.first-page-main-bg{
+   background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+   background-size: cover;
+   height: 100vh;
+}
+.main-1page-heading{
+   color: white;
+   font-family: sans-serif;
+   font-weight: bold;
+}
+.first-mainpage-button{
+   background-color: #1a2137;
+   color: white;
+   font-family: sans-serif;
+   border-width: 0px;
+   border-radius: 9px;
+ padding: 10px;
+   height: 45px;
+   width: 120px;
+   
+}
+.secondpage-smallimage{
+   height: 50px;
+   width: 55px;
+}
+.secondpage-mainhead{
+  color: black;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 30px;
+}
+.secondpage-mainhead2{
+
+  font-weight: 400;
+  font-family: sans-serif;
+  font-size: 22px;
+}
+.secondpage-para{
+   color: #7b8794;
+   font-size: 15px;
+}
+.secondpage-style{
+   font-style: italic;
+    font-weight: bold;
+    color: #1f2933;
+
+}
+.second-page-second-part-image-size{
+   height: 220px;
+    width: 180px;
+
+}
+.second-page-second-part-image-heading{
+   font-size: 20px;
+   color: #323f4b;
+   font-weight: 400;
+
+}
+.second-page-third-part-heading{
+   font-size: 32px;
+   color: black;
+   font-weight: 900;
+   font-family: sans-serif;
+
+}
+.second-page-third-part-para{
+   color: #7b8794;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+.second-page-third-part-button{
+   color: white;
+   background-color: #1a2137;
+   height: 40px;
+   width: 120px;
+   font-family: Roboto;
+   
+}
+.secondpage-fouthpart-para{
+   color: #959ead;
+   font-family: sans-serif;
+}
+.secondpage-fouthpart-para-fontfamily{
+   font-family: sans-serif;
+}
+.secondpage-fouthpart-anchor-element{
+   font-family: sans-serif;
+   font-weight: bold;
+   font-size: 10px;
+   color: #1754a1;
+
+}
+.secondpage-fouthpart-button{
+   background-color: #1754a1;
+   border-width: 0px;
+   width: 120px;
+   color: white;
+   height: 40px;
+   border-radius: 4px;
+   font-family: Roboto;
+   font-size: 14px;
+}
+.fifth-part-bavckgroundimage{
+   background-color: #222b36;
+}
+.fifth-part-heading{
+   font-weight: bold;
+   font-family: sans-serif;
+   font-size: 22px;
+}
+.fifth-part-smallimage{
+   width: 259px;
+}
+.fifth-part-button{
+   border-style: solid;
+   border-color: white;
+   background-color: transparent;
+   color: white;
+   font-family: Roboto;
+   border-width: 2px;
+   width: 140px;
+   height: 35px;
+   font-size: 15px;
+}
+.sixth-part-container-head{
+   font-weight: normal;
+   font-family: sans-serif;
+}
+.sixth-part-button{
+   background-color: transparent;
+   border-style: solid;
+   border-color: white;
+   border-width: 2px;
+   color: white;
+   font-family: sans-serif;
+   width: 120px;
+   height: 40px;
+
+}
+.sixthpart-mainbackgroundimage-1{
+   background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+}
+.sixthpart-card{
+   width: 100%;
+   height: 600px;
+}
+.sixthpart-mainbackgroundimage-2{
+   background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+   background-size: cover;
+}
+.sixth-part-viewall-button{
+   background-color: #1754a1;
+    border-width: 0px;
+    width: 120px;
+    color: white;
+    height: 40px;
+    border-radius: 4px;
+    font-family: Roboto;
+    font-size: 14px;
+
+}
+.footer-bgcolor{
+   background-color: #202b36;
+   padding-top: 15px;
+   padding-bottom: 20px;
+   padding-right: 20px;
+   padding-left: 20px;
+   border-radius: 90px;
+}
+.footer-icon{
+   color:  #5a7184;
+   font-size: 15px;
+}
+.footer-smallimage{
+   width: 60px;
+}
+.footer-para-of-address{
+   color: #5a7184;
+   font-family: sans-serif;
+}
+.footer-contact-us{
+   color: #5a7184;
+   font-size: 18px;
+   font-weight: bold;
+   font-family: sans-serif;
+}
+.bgmaincolor-footer{
+   background-color: #19232d;
+}
+.vrsectionlist {
+   padding-left: 0px;
+   list-style-type: none;
+}
+.icon {
+   color: #5a7184;
+   font-size: 15px;
+}
+.hr {
+   border-style: solid;
+   border-width: 2px;
+   color: #5a7184;
+}
+.last-sentence-footer{
+   color: #959ead;
+   font-size: 15px;
+}
+.bgcolor {
+   background-color: #202b36;
+   padding-top: 15px;
+   padding-bottom: 20px;
+   padding-right: 20px;
+   padding-left: 20px;
+   border-radius: 90px;
+}
+.thanking-customers-section {
+  background-color: #19232d;
+}
+.thanking-customers-section-heading {
+  color: white;
+  font-family: "sans-serif";
+  font-size: 28px;
+  font-weight: 700;
+}
+.thanking-customers-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.thanking-customers-section-img {
+  width: 270px;
+  margin-bottom: 20px;
+}
+.custom-button {
+  color: white;
+  background-color: #33465490;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
